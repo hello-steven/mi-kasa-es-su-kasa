@@ -10,7 +10,8 @@ To get this project running on your local machine do the following steps.
 
 ### Project setup
 1. ```npm install```
-2. ```npm run start``` runs ```src/app.js``` on localhost:3000
+2. create ```.env``` file and add ```BULB_IP=YOUR_SMARTBULB_IP_HERE```
+3. ```npm run start``` runs ```src/app.js``` on localhost:3000
 
 ## Authors
 + **Steven Price** - *Inital work* - [stevenjacobprice.com](https://www.stevenjacobprice.com/), [GitHub](https://github.com/whiteboxpub)
