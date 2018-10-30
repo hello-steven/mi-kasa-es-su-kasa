@@ -3,7 +3,7 @@ TP-Link LB130 node experiment
 
 ## Installing
 
-To get Scroll Motion running on your local machine do the following steps.
+To get this project running on your local machine do the following steps.
 
 1. ```git clone https://github.com/whiteboxpub/mi-kasa-es-su-kasa.git```
 2. ```cd mi-kasa-es-su-kasa```
@@ -17,4 +17,4 @@ To get Scroll Motion running on your local machine do the following steps.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://raw.githubusercontent.com/whiteboxpub/mi-kasa-es-su-kasa/master/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://raw.githubusercontent.com/whiteboxpub/mi-kasa-es-su-kasa/master/LICENSE) file for details
